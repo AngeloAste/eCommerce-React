@@ -3,6 +3,8 @@
 Aplicación web e-commerce que muestra películas y series con posibilidad de agregar a carrito de compra y emitir una orden de compra, desarrollado en `React`.
 ![Recording 2023-02-24 at 05 48 17](https://user-images.githubusercontent.com/110312875/221140277-c5893524-8165-4153-876a-b3e374e84038.gif)
  
+ Ejecutar `npm install react-scripts`  antes de `npm start`
+ 
 ## Scripts Disponibles
 
 En el directorio del proyecto, puede ejecutar:
